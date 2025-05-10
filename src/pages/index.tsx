@@ -6,7 +6,7 @@ export default function Home() {
   const[ukuran, setUkuran] = useState(400)
   return (
     <>
-     <h1>selamat datang di web</h1>
+     <h1>selamat asdojsanjoanjosaoj di web</h1>
      <img width={ukuran} src="/grammarly.webp" alt="" />
      <br />
      {ukuran}
